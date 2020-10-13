@@ -1,1 +1,1 @@
-# EasyGamesApp.github.io
+# easygamesapp
